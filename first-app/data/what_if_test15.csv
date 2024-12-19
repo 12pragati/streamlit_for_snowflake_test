@@ -1,0 +1,31 @@
+Product,Sub-Product,Customer,Region,Service Plan,Terminal Class,Metric Type,Direction,Value
+FlexMaritime,VNO Core,New SP,Alaska,Gold,1m,Mbps,Fwd,8.445945946
+FlexMaritime,VNO Core,New SP,Alaska,Gold,1m,Mbps,Rtn,3.424657534
+FlexMaritime,VNO Core,New SP,Asia,Gold,1m,Mbps,Fwd,151.1824324
+FlexMaritime,VNO Core,New SP,Asia,Gold,1m,Mbps,Rtn,58.21917808
+FlexMaritime,VNO Core,New SP,Australia & NZ,Gold,1m,Mbps,Fwd,21.11486486
+FlexMaritime,VNO Core,New SP,Australia & NZ,Gold,1m,Mbps,Rtn,7.705479452
+FlexMaritime,VNO Core,New SP,Eastern North America,Gold,1m,Mbps,Fwd,16.0472973
+FlexMaritime,VNO Core,New SP,Eastern North America,Gold,1m,Mbps,Rtn,5.136986301
+FlexMaritime,VNO Core,New SP,Gulf of Mexico & Caribbean,Gold,1m,Mbps,Fwd,54.05405405
+FlexMaritime,VNO Core,New SP,Gulf of Mexico & Caribbean,Gold,1m,Mbps,Rtn,17.97945205
+FlexMaritime,VNO Core,New SP,Mediterranean Sea,Gold,1m,Mbps,Fwd,55.74324324
+FlexMaritime,VNO Core,New SP,Mediterranean Sea,Gold,1m,Mbps,Rtn,16.26712329
+FlexMaritime,VNO Core,New SP,North Atlantic Ocean ,Gold,1m,Mbps,Fwd,27.02702703
+FlexMaritime,VNO Core,New SP,North Atlantic Ocean ,Gold,1m,Mbps,Rtn,7.705479452
+FlexMaritime,VNO Core,New SP,North Indian Ocean,Gold,1m,Mbps,Fwd,121.1993243
+FlexMaritime,VNO Core,New SP,North Indian Ocean,Gold,1m,Mbps,Rtn,45.63356164
+FlexMaritime,VNO Core,New SP,North Sea,Gold,1m,Mbps,Fwd,50.67567568
+FlexMaritime,VNO Core,New SP,North Sea,Gold,1m,Mbps,Rtn,13.69863014
+FlexMaritime,VNO Core,New SP,Pacific Ocean,Gold,1m,Mbps,Fwd,53.20945946
+FlexMaritime,VNO Core,New SP,Pacific Ocean,Gold,1m,Mbps,Rtn,16.26712329
+FlexMaritime,VNO Core,New SP,South Atlantic Ocean,Gold,1m,Mbps,Fwd,67.56756757
+FlexMaritime,VNO Core,New SP,South Atlantic Ocean,Gold,1m,Mbps,Rtn,19.69178082
+FlexMaritime,VNO Core,New SP,Western Africa,Gold,1m,Mbps,Fwd,67.56756757
+FlexMaritime,VNO Core,New SP,Western Africa,Gold,1m,Mbps,Rtn,19.69178082
+FlexMaritime,VNO Core,New SP,Western North America,Gold,1m,Mbps,Fwd,16.89189189
+FlexMaritime,VNO Core,New SP,Western North America,Gold,1m,Mbps,Rtn,4.280821918
+FlexMaritime,VNO Core,New SP,Western South America,Gold,1m,Mbps,Fwd,12.66891892
+FlexMaritime,VNO Core,New SP,Western South America,Gold,1m,Mbps,Rtn,4.280821918
+FlexMaritime,VNO Core,New SP,South Indian Ocean,Gold,1m,Mbps,Fwd,26.60472973
+FlexMaritime,VNO Core,New SP,South Indian Ocean,Gold,1m,Mbps,Rtn,10.01712329
