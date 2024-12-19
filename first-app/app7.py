@@ -20,7 +20,7 @@ def OnShowList(filename):
 
 @st.cache_data
 def loadFile(filename):
-    return pd.read_csv("data/what_if_test15.csv", header=0).convert_dtypes()
+    return pd.read_csv("first-app/data/what_if_test15.csv", header=0).convert_dtypes()
 st.title("Heirarchical Data Viewer")
 
 if "names" in st.session_state:
