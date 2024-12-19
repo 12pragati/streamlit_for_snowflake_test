@@ -55,7 +55,7 @@ with st.sidebar:
 
 tabs = st.tabs(["Source", "Graph", "Dot Code"])
 
-tabs[0].dataframe(df)
+tabs[0].dataframe(df, use_container_width=True, hide_index=True)
 
 chart= getGraph(df)
 tabs[1].graphviz_chart(chart, use_container_width=True)
